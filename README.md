@@ -70,10 +70,6 @@ I am passionate about **Artificial Intelligence, LLMs, and Generative AI** — f
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=m-monirr&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-monirr&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📩 Contact
