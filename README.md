@@ -62,13 +62,16 @@ I am passionate about **Artificial Intelligence, LLMs, and Generative AI** — f
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-monirr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-monirr&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-monirr&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=m-monirr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=m-monirr&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-monirr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-monirr&theme=tokyonight" />
 </p>
 
 ---
@@ -78,5 +81,8 @@ I am passionate about **Artificial Intelligence, LLMs, and Generative AI** — f
 <p align="center">
   <a href="mailto:mohamedabozahrazxc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamedd-mounir/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
