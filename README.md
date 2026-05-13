@@ -38,7 +38,6 @@ I am passionate about **Artificial Intelligence, LLMs, and Generative AI** — f
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -80,7 +79,6 @@ I am passionate about **Artificial Intelligence, LLMs, and Generative AI** — f
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Flowise](https://img.shields.io/badge/Flowise-7C3AED?style=flat-square&logoColor=white)
 ![Sim Studio](https://img.shields.io/badge/Sim_Studio-111827?style=flat-square&logoColor=white)
-![Letta](https://img.shields.io/badge/Letta-FF6B6B?style=flat-square&logoColor=white)
 ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![DSPy](https://img.shields.io/badge/DSPy-1E40AF?style=flat-square&logoColor=white)
 ![Haystack](https://img.shields.io/badge/Haystack-03AF9D?style=flat-square&logoColor=white)
@@ -108,8 +106,6 @@ I am passionate about **Artificial Intelligence, LLMs, and Generative AI** — f
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-042AFF?style=flat-square&logoColor=white)
 ![Detectron2](https://img.shields.io/badge/Detectron2-0467DF?style=flat-square&logo=meta&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
 **APIs · Web Frameworks · Backend**
 
