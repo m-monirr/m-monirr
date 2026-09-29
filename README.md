@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center"><em>AI Engineer · LLM Fine-tuning Specialist · AI Automation Builder</em></p>
+<p align="center"><em>AI Engineer · LLM Fine-tuning Specialist · AI Automation Builder . Data Analyst</em></p>
 
 I am passionate about **Artificial Intelligence, LLMs, and Generative AI** — from fine-tuning language models to building autonomous agents and automated AI pipelines.
 
